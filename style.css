@@ -5,16 +5,18 @@ table,th,td{
 table{
     width: 50%;
 }
-th{
-    height: 70px;
-}
 td{
-    padding: 10px;
+    height: 100px;
 }
-.table_style{
-    color: red;
+img{
+    width: 100px;
 }
-div.table_style{
-    color: green;
-    background-color: blue;
+img.picture1{
+    border-radius: 8px;
+}
+img.picture3{
+    filter: blur(4px);
+}
+img.picture2{
+    float: right;
 }
