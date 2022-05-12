@@ -1,20 +1,16 @@
 table,th,td{
-    border: 1px solid black;
-    border-collapse: collapse;
+    border: 1px solid red;
 }
 table{
-    width: 50%;
+    width: 100%;
 }
 th{
-    height: 70px;
+    height: 100px;
 }
 td{
+    height: 300px;
     padding: 10px;
 }
-.table_style{
-    color: red;
-}
-div.table_style{
-    color: green;
-    background-color: blue;
+td.content{
+    width: 50%;
 }
