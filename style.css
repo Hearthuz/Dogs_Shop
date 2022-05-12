@@ -1,20 +1,12 @@
 table,th,td{
-    border: 1px solid black;
+    border: 1px solid red;
     border-collapse: collapse;
+    text-align: right;
+    padding: 5px;
 }
-table{
-    width: 50%;
+.lower{
+    border-bottom: none;
 }
-th{
-    height: 70px;
-}
-td{
-    padding: 10px;
-}
-.table_style{
-    color: red;
-}
-div.table_style{
-    color: green;
-    background-color: blue;
+.upper{
+    border-top: none;
 }
