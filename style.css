@@ -8,9 +8,13 @@ th{
     height: 100px;
 }
 td{
+    width: 25%;
     height: 300px;
     padding: 10px;
 }
 td.content{
     width: 50%;
+}
+img.ADVT{
+    width: 300px;
 }
